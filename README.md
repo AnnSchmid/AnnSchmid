@@ -17,7 +17,7 @@ I enjoy turning ideas into working prototypes — from schematics and PCB layout
 ---
 
 ### 📂 Featured Projects
-- 🌤 [App-controlled LED strip](Link tba)  
+- 🌤 [App-controlled LED strip](https://github.com/AnnSchmid/App-controlled_LED_strip)  
   *Arduino with IR-Emitter connected to IoT, allows you to turn LED strip on and off and to change color*  
 
 

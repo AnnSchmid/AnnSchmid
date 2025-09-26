@@ -24,7 +24,7 @@ I enjoy turning ideas into working prototypes — from schematics and PCB layout
 ---
 
 ### 📄 Resume
-[📥 Download my CV (PDF)](Link tba)
+[📥 Download my CV (PDF)](https://github.com/AnnSchmid/AnnSchmid/blob/8785ab2bafc43ba4bed76c71dfb5da571d659c6b/Lebenslauf_Annalena_Schmid.pdf)
 
 ---
 

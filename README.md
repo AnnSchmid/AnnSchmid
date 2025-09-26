@@ -19,7 +19,7 @@ I enjoy turning ideas into working prototypes — from schematics and PCB layout
 ### 📂 Featured Projects
 - 🌤 [App-controlled LED strip](https://github.com/AnnSchmid/App-controlled_LED_strip)  
   *Arduino with IR-Emitter connected to IoT, allows you to turn LED strip on and off and to change color*
-- 🤖 [Advisor Robolympics 2025](https://github.com/AnnSchmid/Advisor-Robolympics_2025)
+- 🤖 [Advisor Robolympics 2025](https://github.com/AnnSchmid/Advisor-Robolympics_2025)  
   *My creations as a part of Team JJ (subsection hardware) for our robot b0b during the annual robotics championship at TUM*
 
 

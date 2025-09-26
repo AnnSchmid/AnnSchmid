@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Annalena Schmid
 
-I’m an **Electronics Engineer** passionate about embedded systems, PCB design, and hardware/software integration.  
+I’m an **Electronics Engineering Student** passionate about embedded systems, PCB design, and hardware/software integration.  
 I enjoy turning ideas into working prototypes — from schematics and PCB layout to firmware and testing.  
 
 ---

@@ -8,7 +8,7 @@ I enjoy turning ideas into working prototypes — from schematics and PCB layout
 ### 🔧 Core Skills
 - PCB Design (EasyEDA, KiCAD)  
 - PLC and Arduino  
-- Embedded C / C++ 
+- Embedded C / C++, C#
 - Sensors, IoT 
 - Soldering, prototyping
 - Circuit plan creation (E3)
